@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Gabriel Halloran
-- 👀 I’m interested in: Procdeural Generation, Simulations, Fractals, and Recursive Algorithms
-- 🌱 I’m currently learning: Java
-- 💞️ I’m looking to collaborate on: Victorum
-- 📫 How to reach me: gabriel@halloran.net, 323-747-6097
+I’m interested in: Procdeural Generation, Simulations, Fractals, Recursive Algorithms, and Artificial Intelligence 
+
+How to reach me: gabriel@halloran.net / 323-747-6097
